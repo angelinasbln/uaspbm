@@ -1,4 +1,12 @@
-Anggota Kelompok : 
-Yesi Agustin - 4522210023
-Angelina Simbolon - 4522210044
-Daiva Baskoro Upangga
+# Flutter UAS: Aplikasi Penjualan Tiket Kereta Api
+
+## Nama Anggota
+- Yesi Agustin (4522210023)  
+- Angelina Simbolon (4522210044)  
+- Daiva Baskoro U (4522210045)
+
+## Deskripsi Singkat Aplikasi
+Aplikasi ini merupakan platform mobile berbasis Flutter yang dirancang secara responsif dan adaptif guna mempermudah proses pemesanan tiket perjalanan kereta api secara daring. Aplikasi ini menyediakan antarmuka pengguna yang ramah serta mendukung pengalaman pengguna yang optimal melalui sejumlah fitur fungsional. Pengguna dapat dengan mudah melakukan pemesanan tiket perjalanan kereta api secara cepat dan efisien. Bagi admin, tersedia fitur manajemen penumpang yang memungkinkan untuk melihat dan memantau jumlah penumpang yang telah melakukan pemesanan. Selain itu, aplikasi ini mendukung mode tampilan terang dan gelap yang dapat disesuaikan dengan preferensi pengguna. Pengguna juga diberikan kemudahan untuk memperbarui informasi pribadi mereka secara langsung melalui aplikasi, sehingga pengalaman penggunaan menjadi lebih personal dan terkendali.
+
+## Screenshot Emulator
+_(Tambahkan gambar emulator di bawah ini jika ada)_
